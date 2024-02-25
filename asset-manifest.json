@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/car-project2/static/css/main.7b630d19.css",
+    "main.js": "/car-project2/static/js/main.df9196e6.js",
+    "static/js/324.3cf437dd.chunk.js": "/car-project2/static/js/324.3cf437dd.chunk.js",
+    "static/js/680.efca94b2.chunk.js": "/car-project2/static/js/680.efca94b2.chunk.js",
+    "static/js/786.dcd7e365.chunk.js": "/car-project2/static/js/786.dcd7e365.chunk.js",
+    "static/js/426.310cc4a5.chunk.js": "/car-project2/static/js/426.310cc4a5.chunk.js",
+    "static/js/940.c576697c.chunk.js": "/car-project2/static/js/940.c576697c.chunk.js",
+    "static/js/472.e621e35d.chunk.js": "/car-project2/static/js/472.e621e35d.chunk.js",
+    "static/media/pulp-fiction-john-travolta.gif": "/car-project2/static/media/pulp-fiction-john-travolta.59b46f4510af6cc07976.gif",
+    "static/media/carrent.png": "/car-project2/static/media/carrent.ea383ca559c324e5dfd4.png",
+    "index.html": "/car-project2/index.html",
+    "static/media/heart.svg": "/car-project2/static/media/heart.bb77324c5ab750c4c07b5e7ed081203e.svg",
+    "main.7b630d19.css.map": "/car-project2/static/css/main.7b630d19.css.map",
+    "main.df9196e6.js.map": "/car-project2/static/js/main.df9196e6.js.map",
+    "324.3cf437dd.chunk.js.map": "/car-project2/static/js/324.3cf437dd.chunk.js.map",
+    "680.efca94b2.chunk.js.map": "/car-project2/static/js/680.efca94b2.chunk.js.map",
+    "786.dcd7e365.chunk.js.map": "/car-project2/static/js/786.dcd7e365.chunk.js.map",
+    "426.310cc4a5.chunk.js.map": "/car-project2/static/js/426.310cc4a5.chunk.js.map",
+    "940.c576697c.chunk.js.map": "/car-project2/static/js/940.c576697c.chunk.js.map",
+    "472.e621e35d.chunk.js.map": "/car-project2/static/js/472.e621e35d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b630d19.css",
+    "static/js/main.df9196e6.js"
+  ]
+}
